@@ -1,1 +1,1 @@
-# c-programming hackerrank
+#hackerrank c-programming
